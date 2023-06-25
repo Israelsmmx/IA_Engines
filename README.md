@@ -99,3 +99,9 @@ Download the repo
   
   ![image](https://github.com/Israelsmmx/IA_Engines/assets/84999244/b819c480-79b3-4149-b0ba-33d63a0fabeb)
 
+as Serge team mention on the original repo is possible add more engines manually to the container
+
+  Additional weights can be added to the serge_weights volume using docker cp:
+
+            docker cp ./my_weight.bin serge:/usr/src/app/weights/
+  
