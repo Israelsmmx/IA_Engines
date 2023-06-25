@@ -99,7 +99,7 @@ Download the repo
 
 ## Notes:
 
-  spme times the engine needs a small kick with CTRL + Enter Again to request reformulate the answare
+  some times the engine needs a small kick with CTRL + Enter Again to request reformulate the answare
 
   
   ![image](https://github.com/Israelsmmx/IA_Engines/assets/84999244/96f8952b-145b-4d18-9ae2-0dfc80293a78)
