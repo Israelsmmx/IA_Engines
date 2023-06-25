@@ -88,6 +88,15 @@ Download the repo
                   weights:
                   datadb:
 
+
+
+![image](https://github.com/Israelsmmx/IA_Engines/assets/84999244/d70e72f4-2320-41b0-8df2-d3ea5859b3fa)
+
+![image](https://github.com/Israelsmmx/IA_Engines/assets/84999244/ae685b2a-dd33-42f6-8549-95bd0760e0ec)
+
+![image](https://github.com/Israelsmmx/IA_Engines/assets/84999244/042170fa-25d4-4e6f-80cd-65a023388a84)
+
+
 ## Notes:
 
   spme times the engine needs a small kick with CTRL + Enter Again to request reformulate the answare
