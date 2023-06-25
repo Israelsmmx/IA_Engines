@@ -100,6 +100,7 @@ Download the repo
 ## Notes:
 
   some times the engine needs a small kick with CTRL + Enter Again to request reformulate the answare
+  Some questions need more specific question, or may be need a B extended engine trained
 
   
   ![image](https://github.com/Israelsmmx/IA_Engines/assets/84999244/96f8952b-145b-4d18-9ae2-0dfc80293a78)
